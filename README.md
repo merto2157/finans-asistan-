@@ -28,4 +28,4 @@ Borsa hisseleri, kripto paralar, döviz ve maden kurlarını analiz eden; 6 boyu
 
 1. Projeyi klonlayın veya indirin:
    ```bash
-   git clone [https://github.com/KULLANICI_ADINIZ/finans-asistani.git](https://github.com/KULLANICI_ADINIZ/finans-asistani.git)
+  git clone https://github.com/merto2157/finans-asistan-.git
