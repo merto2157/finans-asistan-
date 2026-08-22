@@ -31,11 +31,12 @@ Projeyi yerel ortamınızda çalıştırmak için:
 1. Repoyu klonlayın:
    ```bash
    git clone [https://github.com/merto2157/finans-asistan-.git](https://github.com/merto2157/finans-asistan-.git)
-``
+
 
 2. AI Finans Asistanı'nı kullanmak için Google AI Studio üzerinden ücretsiz edineceğiniz API anahtarını arayüzdeki ayarlar alanına girmeniz yeterlidir.
    
 
 
-   📄 Lisans
+📄 Lisans
+
 Bu proje kişisel gelişim ve portföy amacıyla geliştirilmiştir. Açık kaynak olarak incelenebilir.
