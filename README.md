@@ -40,3 +40,14 @@ Projeyi yerel ortamınızda çalıştırmak için:
 📄 Lisans
 
 Bu proje kişisel gelişim ve portföy amacıyla geliştirilmiştir. Açık kaynak olarak incelenebilir.
+
+
+---
+
+## ⚠️ Yasal Uyarı & Sorumluluk Reddi (Disclaimer)
+
+Bu platformda yer alan skorlama algoritmaları, yapay zeka analizleri, otomatik kararlar (AL/TUT/SAT) ve temel/teknik veriler yalnızca **bilgilendirme ve eğitim** amacıyla sunulmaktadır. 
+
+- Sitede yer alan hiçbir içerik **yatırım danışmanlığı veya yatırım tavsiyesi** kapsamında değildir.
+- Finansal kararlar almadan önce kendi detaylı araştırmanızı (DYOR - Do Your Own Research) yapmanız ve gerekirse lisanslı bir finansal danışmana başvurmanız önerilir.
+- Algoritmanın veya yapay zekanın sunduğu analizler sonucu doğabilecek kâr veya zararlardan platform sorumlu tutulamaz.
